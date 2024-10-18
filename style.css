@@ -1,8 +1,11 @@
 body {
     background-color:midnightblue;
-    color:cornsilk;
+    color:skyblue
 }
 
  header {
       font: size 45px;
+      color:antiquewhite;
+      border-bottom: solid 15px lightsteelblue;
+      text-align: center;
  }
