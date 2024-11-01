@@ -1,6 +1,7 @@
 body {
     background-color:rgb(10, 10, 63);
     color:skyblue;
+    
 }
 
  header {
@@ -13,5 +14,8 @@ body {
  section{
     display: flex;
     background-color:rgb(10, 10, 63);
+    padding: 30px;
+    justify-content: center;
+    margin-top: 20px;
 
  }
